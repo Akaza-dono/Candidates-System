@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\application\\handlers\\experience\\createexperiencehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\application\\handlers\\experience\\createexperiencehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\application\\handlers\\experience\\updateexperiencehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\application\\handlers\\experience\\updateexperiencehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\application\\handlers\\candidates\\getcandidatebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\application\\handlers\\candidates\\getcandidatebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\application\\handlers\\candidates\\updatecandidatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\application\\handlers\\candidates\\updatecandidatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|c:\\users\\migue\\onedrive\\escritorio\\reservation system\\reservation-system\\reservation-system\\infrastructure\\commands\\experience\\createexperiencecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FC191A-19B8-4DB2-842A-572510F0D891}|Reservation-System\\Reservation-System.csproj|solutionrelative:reservation-system\\infrastructure\\commands\\experience\\createexperiencecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Reservation-System\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Reservation-System\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-04T23:42:24.71Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateExperienceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Application\\Handlers\\Experience\\CreateExperienceHandler.cs",
+              "RelativeDocumentMoniker": "Reservation-System\\Application\\Handlers\\Experience\\CreateExperienceHandler.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Application\\Handlers\\Experience\\CreateExperienceHandler.cs",
+              "RelativeToolTip": "Reservation-System\\Application\\Handlers\\Experience\\CreateExperienceHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:14:44.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCandidateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Application\\Handlers\\Candidates\\UpdateCandidateHandler.cs",
+              "RelativeDocumentMoniker": "Reservation-System\\Application\\Handlers\\Candidates\\UpdateCandidateHandler.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Application\\Handlers\\Candidates\\UpdateCandidateHandler.cs",
+              "RelativeToolTip": "Reservation-System\\Application\\Handlers\\Candidates\\UpdateCandidateHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:13:43.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateExperienceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Application\\Handlers\\Experience\\UpdateExperienceHandler.cs",
+              "RelativeDocumentMoniker": "Reservation-System\\Application\\Handlers\\Experience\\UpdateExperienceHandler.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Application\\Handlers\\Experience\\UpdateExperienceHandler.cs",
+              "RelativeToolTip": "Reservation-System\\Application\\Handlers\\Experience\\UpdateExperienceHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:00:30.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "Reservation-System\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "Reservation-System\\Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwFsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:28:42.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Controllers\\ExperienceController.cs",
+              "RelativeDocumentMoniker": "Reservation-System\\Controllers\\ExperienceController.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Controllers\\ExperienceController.cs",
+              "RelativeToolTip": "Reservation-System\\Controllers\\ExperienceController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAhwE0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:55:28.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCandidateByIdhandler.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Application\\Handlers\\Candidates\\GetCandidateByIdhandler.cs",
+              "RelativeDocumentMoniker": "Reservation-System\\Application\\Handlers\\Candidates\\GetCandidateByIdhandler.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Application\\Handlers\\Candidates\\GetCandidateByIdhandler.cs",
+              "RelativeToolTip": "Reservation-System\\Application\\Handlers\\Candidates\\GetCandidateByIdhandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:14:36.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Reservation-System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Reservation-System\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T23:35:39.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateExperienceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Infrastructure\\Commands\\Experience\\CreateExperienceCommand.cs",
+              "RelativeDocumentMoniker": "Reservation-System\\Infrastructure\\Commands\\Experience\\CreateExperienceCommand.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Infrastructure\\Commands\\Experience\\CreateExperienceCommand.cs",
+              "RelativeToolTip": "Reservation-System\\Infrastructure\\Commands\\Experience\\CreateExperienceCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:20:07.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Reservation-System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Reservation-System\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:46:43.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

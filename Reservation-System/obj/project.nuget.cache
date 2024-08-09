@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbydL1UqMBjed76Eg4bHZTBeQHTkdjhXOVWe4sxNNZ8pbXfIRcbGKuw01yFBqrNs3dWT/Hy2Xsu2Cen5P6gnvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\OneDrive\\Escritorio\\Reservation System\\Reservation-System\\Reservation-System\\Reservation-System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.7\\microsoft.entityframeworkcore.analyzers.8.0.7.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.7\\microsoft.entityframeworkcore.inmemory.8.0.7.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.7\\microsoft.entityframeworkcore.relational.8.0.7.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

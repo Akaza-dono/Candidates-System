@@ -1,0 +1,38 @@
+﻿@{
+    Layout = null;
+}
+<header>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdn3.devexpress.com/jslib/21.2.12/css/dx.light.css">
+    <script type="text/javascript" src="https://cdn3.devexpress.com/jslib/21.2.12/js/dx.all.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</header>
+<style>
+    /* Añade el CSS aquí o en un archivo separado */
+    .container {
+        display: flex; /* Usa flexbox para alinear los elementos en una fila */
+        gap: 20px; /* Espacio entre los dos divs */
+    }
+
+    #dataGridContainer, #dataGridContainerExperience {
+        flex: 1; /* Hace que ambos divs ocupen el mismo espacio */
+    }
+</style>
+
+<div class="container mt-5">
+    <h1 class="mb-4">CRUD de Candidatos</h1>
+    <div>
+        <button type="button" class="btn btn-primary mb-2" id="listar">Mostrar Lista de Candidatos</button>
+        <input type="text" id="val" value="asfas" style="display:none" />
+    </div>
+</div>
+<div id="modalPopup"></div>
+
+<div class="container">
+    <div id="dataGridContainer"></div>
+    <div id="dataGridContainerExperience"></div>
+</div>
+
+<script src="~/js/site.js" type="module"></script>
